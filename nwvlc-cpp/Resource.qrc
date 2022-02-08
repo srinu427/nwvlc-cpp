@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>nwvlclog.png</file>
+    </qresource>
+</RCC>
